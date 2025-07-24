@@ -20,4 +20,5 @@ This is a simple Python script that automatically organizes files in a directory
 3. Place the script in the folder you want to organize
 4. Run the script using the terminal:
 
-python file-organizer.py
+```bash
+python _Organizador.py

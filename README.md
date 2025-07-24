@@ -21,4 +21,4 @@ This is a simple Python script that automatically organizes files in a directory
 4. Run the script using the terminal:
 
 ```bash
-python _Organizador.py
+python file-organizer.py
